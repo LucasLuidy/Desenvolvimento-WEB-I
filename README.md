@@ -1,7 +1,7 @@
 # Desenvolvimento WEB-I
 
 Nome: Lucas Luidy Tolentino Gonçalves
-HTML: Básico
-CSS: Básico
 
-joga
+HTML: Básico
+
+CSS: Básico
